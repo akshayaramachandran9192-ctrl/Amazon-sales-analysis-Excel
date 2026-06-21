@@ -1,4 +1,5 @@
-# Amazon Sales Analysis Report
+# Amazon Sales Analysis Report 
+Developed an interactive Amazon Sales Analysis Report using Advanced Excel to transform messy e-commerce data into actionable business strategies. Cleaned and structured the raw dataset using automated text-functions and transformations, then built dynamic Pivot Dashboards to monitor key performance indicators (KPIs). The final report delivers high-impact insights into top-performing categories, monthly revenue trends, regional demand distribution, and order fulfillment status to optimize inventory management and drive sales growth."
 
 ## 📌 Project Overview
 This project focuses on analyzing Amazon sales data to uncover key insights regarding product performance, sales trends, regional demand, and customer purchasing behavior. Using **Advanced Excel**, the raw dataset was cleaned, structured, and analyzed to help businesses make data-driven decisions to optimize inventory and maximize revenue.
